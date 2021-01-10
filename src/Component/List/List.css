@@ -1,0 +1,11 @@
+.result_part{
+    position: absolute;
+    bottom: 250px;
+    left: 20px;
+    right: 0;
+    color: #ffffff;
+}
+.result_part ul li{
+    list-style: none;
+    font-size: 25px;
+}
